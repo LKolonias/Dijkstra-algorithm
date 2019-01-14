@@ -1,4 +1,4 @@
-# Dijkstra_algorithm
+# Dijkstra algorithm
 
 
 Implementation and comparison of Dijkstra's and A* shortest path algorithms for the needs of the course Advanced Topics Algorithms Implementation Technologies in Department of Computer Engineering & Informatics, University of Patras.<br><br>
